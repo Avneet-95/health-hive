@@ -79,11 +79,11 @@ const Footer = () => {
               </Typography>
 
               <Typography variant="subtitle1" display="block">
-                <Phone /> +91 987 654 3210
+                <Phone /> +91 7632858301
               </Typography>
 
               <Typography variant="subtitle1" display="block">
-                <LocationOnOutlined /> Bennett University, Greater Noida
+                <LocationOnOutlined /> Chandigarh University, Mohali
               </Typography>
             </Box>
           </Grid>
